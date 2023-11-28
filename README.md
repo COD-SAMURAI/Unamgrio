@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Unamgrio
+- 👋 Hi, I’m @DARSHAN
 - 👀 I’m interested in learning 
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning C , python , java
 - 💞️ I’m looking to collaborate on application development 
 - 📫 How to reach me ...
 
